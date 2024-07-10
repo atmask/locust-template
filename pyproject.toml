@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "loadtests"
 version = "0.1.0"
-description = "A package that contains boiler plate load testing code using the Locust framework"
+description = "A package that contains boilerplate load testing code using the Locust framework"
 authors = ["atmask <benjaminajm@gmail.com>"]
 readme = "README.md"
 
